@@ -1,4 +1,4 @@
-# OlÃ¡, sou o JoÃ£o Vitor! ðŸ‘‹
+**# OlÃ¡, sou o JoÃ£o Vitor! ðŸ‘‹
 
 <p align="left">
   Desenvolvedor de Software focado na construÃ§Ã£o de aplicaÃ§Ãµes modernas e resilientes. Tenho experiÃªncia prÃ¡tica no desenvolvimento fullstack, trabalhando tanto com o ecossistema <strong>Java & Spring Boot</strong> quanto com <strong>TypeScript, Node.js e React</strong>.
@@ -78,4 +78,4 @@
   <a href="https://github.com/joaoVitor1009">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</p>**
